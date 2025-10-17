@@ -12,7 +12,7 @@ After fine-tuning, I created an inference pipeline that could answer unseen ques
 - Training: 3 epochs, batch size 16, learning rate 3e-5, weight decay 0.01  
 - Evaluation Metrics: **Exact Match (66.05%)**, **F1 (74.66%)**  
 - Frameworks: Transformers, Datasets, Evaluate, PyTorch  
-- Tools: Hugging Face `Trainer` & `Pipeline` APIs for training and inference  
+- Tools: Hugging Face `Trainer` & `Pipeline` APIs for training and inference.  
 
 ---
 
