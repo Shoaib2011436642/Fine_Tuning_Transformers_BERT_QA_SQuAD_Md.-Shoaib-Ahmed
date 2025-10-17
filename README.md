@@ -16,7 +16,7 @@ After fine-tuning, I created an inference pipeline that could answer unseen ques
 
 ---
 
-### 📌 Future Improvements:
+###  Future Improvements:
 - Experiment with larger transformer architectures like **BERT-Large** or **RoBERTa**  
 - Apply model **distillation or quantization** for faster inference  
 - Deploy the QA model as an **interactive web app** using Streamlit or Flask  
